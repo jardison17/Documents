@@ -97,6 +97,7 @@ class _HomeInicialState extends State<HomeInicial> {
           ],
         ),
       ),
+      drawer: Drawer(backgroundColor: Colors.white, elevation: 5),
     );
   }
 }
